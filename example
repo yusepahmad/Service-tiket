@@ -1,0 +1,531 @@
+{
+    "link": "https://www.tiket.com",
+    "domain": "tiket.com",
+    "tag": [
+      "tiket",
+      "hotel",
+      "review"
+    ],
+    "name_hotel": "ASTON Mojokerto Hotel & Conference Center",
+    "rating_hotel": "4,7/5",
+    "price": "4,7/5",
+    "address": "JL. Totok Kerot Km 51 By Pass Mojokerto East Java",
+    "popular _facilities": [
+      "Kolam Renang",
+      "WiFi",
+      "Parkir",
+      "Pusat Kebugaran",
+      "Spa",
+      "Resepsionis 24 Jam",
+      "Lift",
+      "Restoran",
+      "Fasilitas Rapat"
+    ],
+    "other_facilities": [
+      {
+        "fasilitas_category": "Olahraga, Spa, & Rekreasi",
+        "info_fasilitas": [
+          "Fasilitas Gym"
+        ]
+      },
+      {
+        "fasilitas_category": "Fasilitas Umum",
+        "info_fasilitas": [
+          "WiFi Publik",
+          "Lift",
+          "Kolam Renang",
+          "Restoran",
+          "Parkir (Gratis)"
+        ]
+      },
+      {
+        "fasilitas_category": "Layanan Hotel",
+        "info_fasilitas": [
+          "Layanan Laundry/Dry Cleaning",
+          "Brankas Hotel",
+          "Penitipan Bagasi",
+          "Layanan Concierge",
+          "Resepsionis 24 Jam"
+        ]
+      },
+      {
+        "fasilitas_category": "Fasilitas Bisnis",
+        "info_fasilitas": [
+          "Ruang Rapat"
+        ]
+      },
+      {
+        "fasilitas_category": "Kesehatan & Medis",
+        "info_fasilitas": [
+          "Spa"
+        ]
+      }
+    ],
+    "check_in": "14:00-23:59",
+    "check_out": "12:00",
+    "policy": "Anak\nHanya tamu berumur 18 tahun ke atas yang bisa menginap di sini.Anak-anak 13 tahun ke atas dianggap sebagai tamu dewasa.Pastikan umur anak yang menginap sesuai dengan detail pemesanan. Jika berbeda, tamu mungkin akan dikenakan biaya tambahan saat check-in.\n\nDeposit\nTamu perlu membayar deposit saat check-in.\n\nUmur\nHanya menerima tamu yang berumur di atas 18 tahun.\n\nSarapan\nSarapan tersedia pukul 06:30 - 10:00 waktu lokal.\n\nHewan peliharaan\nTidak diperbolehkan membawa hewan peliharaan.\n\nMerokok\nKamar bebas asap rokok.\n\nAlkohol\nMinuman beralkohol tidak diperbolehkan.\n\n",
+    "about": "Located near to the sophisticated shopping mall and an easy access to the Museum Mojopahit Trowulan, ASTON Mojokerto Hotel & Conference Center offers guests a memorable stay nostalgic to the mid-century concept in a strategic location. 139 well furnished guest rooms, suites and penthouse are designed by combining ASTON high standards in mind and the culture of Mojokerto. Fully equipped with stylish modern amenities, each room provides a memorable stay experience. Five stylish and modern meeting rooms are available for professional meetings and social events for up to 500 guests with well-equipped meeting equipment for your success story. High-speed internet is also available throughout hotel areas. ASTON Mojokerto Hotel & Conference Center is the very first 4-star hotel in town to offer Google Nest Hub and Google Nest Mini displays in every guest room! A warm, modern, and stylish concept awaits business and leisure travellers!",
+    "room": [
+      {
+        "name_room": "Kamar Deluks Double atau Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 478.927",
+        "desk": [
+          "2 Tamu",
+          "1 Double atau Twin",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night",
+          "2 Tamu",
+          "1 Double atau Twin",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluks Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 482.316",
+        "desk": [
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir"
+        ]
+      },
+      {
+        "name_room": "Studio King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 503.929",
+        "desk": [
+          "1 Tamu",
+          "2 twin / 1 king",
+          "Sarapan tidak tersedia",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluxe Premier King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 553.627",
+        "desk": [
+          "2 Tamu",
+          "1 King",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night",
+          "2 Tamu",
+          "1 King",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Studio Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 553.670",
+        "desk": [
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluks King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 568.582",
+        "desk": [
+          "1 Tamu",
+          "2 twin / 1 king",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Studio Queen",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 578.630",
+        "desk": [
+          "1 Tamu",
+          "1 queen",
+          "Sarapan tidak tersedia",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Kamar Double",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 645.983",
+        "desk": [
+          "1 Tamu",
+          "1 double",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Suite Queen",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.151.460",
+        "desk": [
+          "1 Tamu",
+          "1 kasur queen size",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Sisa 2 kamar lagi!",
+          "1 Tamu",
+          "1 kasur queen size",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "Sisa 2 kamar lagi!"
+        ]
+      },
+      {
+        "name_room": "Suite ASTON",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.178.261",
+        "desk": [
+          "2 Tamu",
+          "1 King",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Suite King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.203.264",
+        "desk": [
+          "1 Tamu",
+          "1 king",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis",
+          "Sisa 2 kamar lagi!"
+        ]
+      }
+    ],
+    "review": {
+    "link": "https://www.tiket.com",
+    "domain": "tiket.com",
+    "tag": [
+      "tiket",
+      "hotel",
+      "review"
+    ],
+    "name_hotel": "ASTON Mojokerto Hotel & Conference Center",
+    "rating_hotel": "4,7/5",
+    "price": "4,7/5",
+    "address": "JL. Totok Kerot Km 51 By Pass Mojokerto East Java",
+    "popular _facilities": [
+      "Kolam Renang",
+      "WiFi",
+      "Parkir",
+      "Pusat Kebugaran",
+      "Spa",
+      "Resepsionis 24 Jam",
+      "Lift",
+      "Restoran",
+      "Fasilitas Rapat"
+    ],
+    "other_facilities": [
+      {
+        "fasilitas_category": "Olahraga, Spa, & Rekreasi",
+        "info_fasilitas": [
+          "Fasilitas Gym"
+        ]
+      },
+      {
+        "fasilitas_category": "Fasilitas Umum",
+        "info_fasilitas": [
+          "WiFi Publik",
+          "Lift",
+          "Kolam Renang",
+          "Restoran",
+          "Parkir (Gratis)"
+        ]
+      },
+      {
+        "fasilitas_category": "Layanan Hotel",
+        "info_fasilitas": [
+          "Layanan Laundry/Dry Cleaning",
+          "Brankas Hotel",
+          "Penitipan Bagasi",
+          "Layanan Concierge",
+          "Resepsionis 24 Jam"
+        ]
+      },
+      {
+        "fasilitas_category": "Fasilitas Bisnis",
+        "info_fasilitas": [
+          "Ruang Rapat"
+        ]
+      },
+      {
+        "fasilitas_category": "Kesehatan & Medis",
+        "info_fasilitas": [
+          "Spa"
+        ]
+      }
+    ],
+    "check_in": "14:00-23:59",
+    "check_out": "12:00",
+    "policy": "Anak\nHanya tamu berumur 18 tahun ke atas yang bisa menginap di sini.Anak-anak 13 tahun ke atas dianggap sebagai tamu dewasa.Pastikan umur anak yang menginap sesuai dengan detail pemesanan. Jika berbeda, tamu mungkin akan dikenakan biaya tambahan saat check-in.\n\nDeposit\nTamu perlu membayar deposit saat check-in.\n\nUmur\nHanya menerima tamu yang berumur di atas 18 tahun.\n\nSarapan\nSarapan tersedia pukul 06:30 - 10:00 waktu lokal.\n\nHewan peliharaan\nTidak diperbolehkan membawa hewan peliharaan.\n\nMerokok\nKamar bebas asap rokok.\n\nAlkohol\nMinuman beralkohol tidak diperbolehkan.\n\n",
+    "about": "Located near to the sophisticated shopping mall and an easy access to the Museum Mojopahit Trowulan, ASTON Mojokerto Hotel & Conference Center offers guests a memorable stay nostalgic to the mid-century concept in a strategic location. 139 well furnished guest rooms, suites and penthouse are designed by combining ASTON high standards in mind and the culture of Mojokerto. Fully equipped with stylish modern amenities, each room provides a memorable stay experience. Five stylish and modern meeting rooms are available for professional meetings and social events for up to 500 guests with well-equipped meeting equipment for your success story. High-speed internet is also available throughout hotel areas. ASTON Mojokerto Hotel & Conference Center is the very first 4-star hotel in town to offer Google Nest Hub and Google Nest Mini displays in every guest room! A warm, modern, and stylish concept awaits business and leisure travellers!",
+    "room": [
+      {
+        "name_room": "Kamar Deluks Double atau Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 478.927",
+        "desk": [
+          "2 Tamu",
+          "1 Double atau Twin",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night",
+          "2 Tamu",
+          "1 Double atau Twin",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluks Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 482.316",
+        "desk": [
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir"
+        ]
+      },
+      {
+        "name_room": "Studio King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 503.929",
+        "desk": [
+          "1 Tamu",
+          "2 twin / 1 king",
+          "Sarapan tidak tersedia",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluxe Premier King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 553.627",
+        "desk": [
+          "2 Tamu",
+          "1 King",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night",
+          "2 Tamu",
+          "1 King",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Studio Twin",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 553.670",
+        "desk": [
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan tidak tersedia",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "1 Tamu",
+          "2 kasur single",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir"
+        ]
+      },
+      {
+        "name_room": "Kamar Deluks King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 568.582",
+        "desk": [
+          "1 Tamu",
+          "2 twin / 1 king",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Studio Queen",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 578.630",
+        "desk": [
+          "1 Tamu",
+          "1 queen",
+          "Sarapan tidak tersedia",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Kamar Double",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 645.983",
+        "desk": [
+          "1 Tamu",
+          "1 double",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis"
+        ]
+      },
+      {
+        "name_room": "Suite Queen",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.151.460",
+        "desk": [
+          "1 Tamu",
+          "1 kasur queen size",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Sisa 2 kamar lagi!",
+          "1 Tamu",
+          "1 kasur queen size",
+          "Sarapan (1 pax)",
+          "Wi-Fi gratis",
+          "Parkir",
+          "Bayar di Hotel",
+          "Sisa 2 kamar lagi!"
+        ]
+      },
+      {
+        "name_room": "Suite ASTON",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.178.261",
+        "desk": [
+          "2 Tamu",
+          "1 King",
+          "Sarapan (2 pax)",
+          "Wi-Fi gratis",
+          "Gratis Parkir Mandiri, Internet gratis, Air minum Gratis , Every night"
+        ]
+      },
+      {
+        "name_room": "Suite King",
+        "status_room": "Tidak bisa refund & reschedule",
+        "price_room": "IDR 1.203.264",
+        "desk": [
+          "1 Tamu",
+          "1 king",
+          "Sarapan (1 pax)",
+          "Wi-Fi",
+          "Parkir valet gratis, Parkir mandiri gratis",
+          "Sisa 2 kamar lagi!"
+        ]
+      }
+    ]
+  }
+],
+"link_image": [
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2023/04/09/99f2be0e-c3e5-4b36-97af-960c4de956a7-1680996841631-d6611ebaa66fd0944a85ff01bbdd1640.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2023/03/31/338494d9-9894-4cba-8cb4-661ca3ada452-1680251388260-e0147fc84fda9f09b10360521bb9e20e.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/01718702-1f4f-4541-8a09-22e509cae175-1669349430552-a83a772ed0ae15ab713862531c406114.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/8aec586d-3168-4722-8115-882513d25cb0-1669349432983-6ec9c08f3e47b1db36bc3d5b6fc7bf8d.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/d348fb0b-8c85-4209-a38e-0c1213560ecb-1669349432534-6cb33780392ad2e65ca748b6a500d6c6.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/9db5ebb6-345f-47b8-bbdb-13938282de8a-1669349431058-960b808c7f042f591b2767fec0eb526b.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/b9564cc7-a418-403d-bb1c-8d86f849178c-1669349434015-56ffdc72b0e797151a70663534985f5a.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/6aa2dafe-c652-4815-9a13-de0d4171d677-1669349435446-c27f0482c6b031dfede0e0494954a69f.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/efdf0511-60ef-43d6-94a6-ff255ac4e403-1669349430047-530da05c584285283a32dd6973915ffa.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/d5788357-d5d7-4a06-a753-2ad0e782c75d-1669349432004-b8f6c1c31eee0d1e108b2dae5d13b62d.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2022/11/25/450b5861-23a2-4a4d-b36d-9caa33441bcb-1669349434982-9a380f8f93abb0111688d320a8988b40.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-mobile/tix-hotel/images-web/2023/02/20/bde27701-b5c0-4911-8ab3-7bf11a04910e-1676868671574-09cc890e5a5310b88657108226b1deeb.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/25/ccb73bf0-3a00-448d-a8e2-a156a26caefa-1669349433464-8d02980cb4e289d2f9229df2a08f1ea3.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/fa1b78df-3f7a-4066-a8f3-c01e356a03e5-1676868635623-03b019945a904f4cdfa8f12e0d9ff154.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/03/31/8e36eb98-0ceb-4537-a2cd-601562733713-1680251693576-f4446112d091ed8cd70b77ec28f6a692.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/04/09/abf49924-6bd9-42f6-b6d7-05dd15db9a2b-1680996841625-5a8f7f9c7d5862ade0eaad6ed21a8bdc.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/06/23/773a6339-9a39-4221-a4cc-60bc8f00ffab-1687512291881-64dabae2707d45c3f1edd92412e511a3.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/12/29/d9a31fd8-ecd8-4c4b-a131-b912cb047758-1703789933666-68babf2a142e7ab724acb8190bf846b3.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/12/29/576f8cd0-a519-4bcf-b9dc-454d8a323548-1703789944802-849851fc6882bf073c1109ec95f2f747.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/12/29/4a71527a-3572-464b-8132-7cd15e8ba9ed-1703789955317-b3badf2ac49da1c4d133113a3355dcd1.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/12/29/ac05ff4c-4135-40a3-b73c-f615b4f85897-1703789967071-70cab8be0c31c0e311ef4f63d60f6301.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/29/c5807a63-37a9-4024-99f5-d6106fdad64f-1669704632732-ada80f4fd1e80e0d25101084abab7607.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/29/4b659abd-e4cf-4d18-a77a-9265627a0534-1669704632393-976fa18118f8c645390bd0ee5617785d.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/03/31/a295e7ca-3f40-4ef6-a61e-9881c2b65e9f-1680251291095-33ff5e8fa5a135f2f1a7a1c84f10e4f8.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/29/66284a10-74f6-4683-9da4-a5ca499526be-1669704633891-cd5a75127ebf01b7e2c1a047e65ceaec.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2022/11/29/1d119367-4679-406f-908f-9d1f87ddcaf4-1669704633458-0fb9f122f76ac0bccef0e8b5d11edab2.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/c0aaa076-9500-4986-abef-5263a04f0ae1-1676868633866-3b69a8f1744902835f907e1b402260b5.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/b20578f7-2577-4ce3-9168-0a1c2e56cfbf-1676868638601-0e335e785f56425ac40bee784267cbfe.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/9db22039-487e-4a7e-8733-bc6a5ddee925-1676868669156-b8f09ea597b303a741ad9b059e1a70fb.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/03bf2296-cbf8-4cea-9e1e-bff0ba000e8c-1676868676072-05a1f201c8f1030bfb1369e3a72d065c.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/ca5a7c81-6180-499f-bd78-59607ab62de1-1676868664875-17cd8d91d9d1b13e80ddd2589e9dc759.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/20/1d619fc9-d79b-4faa-be06-02860ad0b924-1676868671280-ab058eea0c2546143485b4c6a8a981ef.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/06/23/6cb7a2dc-567b-4d15-b53b-04ae2bfefa65-1687512291642-db4e6e6fa8792341a9c97c2645f45965.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/06/23/7923920b-459c-483e-b1f2-220dbab60e7e-1687512291688-5a89068fdda0ede04d28dd6834dacb6a.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/06/23/936c89a7-d5a2-42ae-a672-8c5b72885f61-1687512291639-8c183f0a068af05845e639d57707998d.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/12/29/612a8adb-49ea-4cc5-b589-df170d2d9227-1703789951576-be1bd0864c1b9315191039c8b2b180fc.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/924316a9-0162-48f4-bd13-b0b66a0afb8b-1675646585257-52b5dc520bd0f59a0873839960200e13.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/876a3ca3-5519-4425-bd2e-7c8f3435645d-1675646585341-e508226714eec3aa6fe9ef4365eb0710.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/494d8fdf-44bb-4131-b74a-8d38e7c745c6-1675646587540-ddccee6b7ad1ad2d6db2836c19fa2ac8.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/a726ccb0-e6f8-410c-ae7b-db3b023403f8-1675646587345-e487ad9922e5a523cc7860114b56d39a.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/a71d03e9-4a40-4157-8400-f5cc6f363dda-1675646587273-a8e824854dbdd6b96725f9462dca1cef.jpg",
+  "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2023/02/06/40595594-9928-474d-9816-3e8abc731f07-1675646586993-f519b7f01dd3871f82b559eaea1b1cf4.jpg"
+]
+  }
